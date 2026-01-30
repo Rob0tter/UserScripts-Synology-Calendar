@@ -1,22 +1,21 @@
-![Logo](./logo.png)
+![Logo](./_logo.png)
  
-# Repo Name
+# Highlight Day
 
-Short description
+Highlight the current and the selected day (whole cell background and border)
 
 ## Installation
-No installation necessary, just copy the executable and the ini file in the same folder and run.
+In your browser, you need a userscript engine installed like TamperMonkey or GreaseMonkey.
+Within the monkey, add this script with regard to your Calendar web address. After reloading, the script will apply.
 
 ## Description
-Long description
+A simple CSS style addition that adds a visual enhancement: the cell of the current day gets a darker shaded background. Further, if you select a day from the upper left month overview, that day will get a lighter shaded background and also a colored border.
+You can change the colors to your likings.
 
 ## Tested environments
-This program is tested to work with at least:
+This UserScript has been tested with:
 
-- Windows 11 Pro 24H2
-- Windows 11 Pro 25H2
-
-## Compile instructions
-AutoHotkey v2 is necessary to run and compile this script.
-All compiler settings are in the script file, no further settings needed in the GUI of AHK2EXE.
-The script is designed to be run on the command line as well as resident in the tray.
+- Synology Calendar 3.0
+- Chrome 143
+- TamperMonkey 5.4.1
+- Windows 11
