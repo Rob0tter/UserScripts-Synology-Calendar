@@ -6,7 +6,7 @@ Highlight the current and the selected day (whole cell background and border)
 ## Installation
 1. In your browser, you need a userscript engine installed like TamperMonkey: [TamperMonkey](https://www.tampermonkey.net/)
 2. To install this user script within TamperMonkey, **[click here (raw link to the above script)](https://raw.githubusercontent.com/Rob0tter/UserScripts-Synology-Calendar/refs/heads/main/highlight-day.user.js)**
-3. When installing, you will be asked for your URL to match this script. If, for example, your calendar runs at "https://calendar.its-me.synology.me", it would be sufficient to enter "calendar.its-me.synology.me". Or, if it runs under "http://its-me.calendar.synology.me/calendar", then just enter "its-me.calendar.synology.me/calendar".
+3. When installing, you will be asked for your URL to match this script. If, for example, your calendar runs at "https://calendar.its-me.synology.me", it would be sufficient to enter "calendar.its-me.synology.me". Or, if it runs under "http://its-me.synology.me/calendar", then just enter "its-me.synology.me/calendar".
 4. This URL will be saved within TamperMonkey on your computer, so that updates to the script will not erase your individual URL to match. You can change the addresse at any time just by clicking the TamperMonkey icon and then "Change URL"
 
 ## Updates
